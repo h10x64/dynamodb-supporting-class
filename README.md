@@ -2,6 +2,8 @@
 
 Some class that supporting the coding with the AWS DynamoDB. (;D)
 
+[日本語ドキュメントはこちらです](README_JP.md)
+
 ## How to use
 
 ```javascript

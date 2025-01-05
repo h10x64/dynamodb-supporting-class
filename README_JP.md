@@ -3,6 +3,8 @@
 AWSのDynamoDBを使う時にちょっと面倒な部分を実装したクラスです。  
 ちょっとしたスニペットのようなものです。
 
+[English document is here.](README.md)
+
 ## 使い方
 
 次のような感じになります。
